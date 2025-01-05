@@ -48,11 +48,11 @@ I am a software engineer and entrepreneur. I worked during 13 years at Automatti
 
 ### Github Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=corsonr&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=corsonr&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=corsonr&layout=compact&theme=transparent&hide_border=true)](https://github.com/corsonr)
 
-### More Stats 📊
+### More Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corsonr&theme=transparent&hide_border=true)](https://github.com/corsonr)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=corsonr&color=brightgreen)
