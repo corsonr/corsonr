@@ -16,30 +16,29 @@ I am a software engineer and entrepreneur. I worked during 13 years at Automatti
 ### Skills
 
 <picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/react-light.svg">
-  <img src="" width="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-light.svg">
+  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-light.svg" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/php-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/php-light.svg">
-  <img src="" width="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php-light.svg">
+  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php-light.svg" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
-  <img src="" width="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg">
+  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg">
-  <img src="" width="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html-light.svg">
+  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html-light.svg" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg">
-  <img src="" width="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css-light.svg">
+  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css-light.svg" width="55">
 </picture>
 
 ### Github Stats  
