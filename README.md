@@ -4,8 +4,8 @@ I am a software engineer and entrepreneur. I worked during 13 years at Automatti
 
 ### What I'm working on
 
-- [StoreUI](https://storeui.net): A WordPress theme for e-commerce.
-- [GuttyPress](https://guttypress.com): A WordPress theme for e-commerce.
+- [StoreUI](https://storeui.net): A headless user interface for WooCommerce.
+- [GuttyPress](https://guttypress.com): A FSE WordPress theme for everyone
 - [Remicorson.com](https://remicorson.com): My personal website.
 
 ### Connect with me
