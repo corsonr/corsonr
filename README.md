@@ -54,5 +54,3 @@ I am a software engineer and entrepreneur. I worked during 13 years at Automatti
 
 ### More Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=corsonr&theme=transparent&hide_border=true)](https://github.com/corsonr)
-
-![Profile Views](https://komarev.com/ghpvc/?username=corsonr&color=brightgreen)
