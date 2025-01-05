@@ -40,17 +40,10 @@ I am a software engineer and entrepreneur. I worked during 13 years at Automatti
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css-light.svg">
   <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css-light.svg" width="55">
 </picture>
-
-### WordPress Ecosystem
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress-light.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress-light.svg" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/woocommerce-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/woocommerce-light.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/woocommerce-light.svg" width="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress.svg">
+  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress.svg" width="55">
 </picture>
 
 ### Github Stats  
