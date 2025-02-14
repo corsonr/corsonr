@@ -13,39 +13,6 @@ I am a software engineer and entrepreneur. I worked during 13 years at Automatti
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/corsonr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/remicorson)
 
-### Skills
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-light.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-light.svg" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php-light.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php-light.svg" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/javascript.svg" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html-light.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html-light.svg" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css-light.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css-light.svg" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress.svg">
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/wordpress.svg" width="55">
-</picture>
-
 ### Github Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=corsonr&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
